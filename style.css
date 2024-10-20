@@ -100,5 +100,5 @@ unless otherwise specified.
     */
     outline-offset: calc(var(--border-thin)*-1);
 
-    padding: var(--s4);
+    padding: var(--s3);
 }
