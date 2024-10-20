@@ -70,7 +70,9 @@ a child, grandchild, great-grandchild, and so on, of an element with the class s
 of other elements that are descendants 
 of elements with the class stack.
 
-margin-block-start property of an element 
+margin-block-start: set the margin of an element at the start of a block-level box. 
+It specifies the margin space between the element's top border and the top of its containing block.
+
 to a value determined by the --space CSS variable. 
 If the --space variable is not defined, it defaults to 1.5rem. 
 This means that the top margin of the element will be 1.5rem 
